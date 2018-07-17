@@ -110,7 +110,7 @@
 				TargetAttributes = {
 					2A2EC58F1E5C2A7000036786 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = TMXT2AU42F;
+						DevelopmentTeam = 8DY6X3TUBR;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -271,10 +271,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TMXT2AU42F;
+				DEVELOPMENT_TEAM = 8DY6X3TUBR;
 				INFOPLIST_FILE = RLAudioRecord/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.enorth.RLAudioRecord;
+				PRODUCT_BUNDLE_IDENTIFIER = cc.maemo.RLAudioRecord;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -283,10 +283,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TMXT2AU42F;
+				DEVELOPMENT_TEAM = 8DY6X3TUBR;
 				INFOPLIST_FILE = RLAudioRecord/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.enorth.RLAudioRecord;
+				PRODUCT_BUNDLE_IDENTIFIER = cc.maemo.RLAudioRecord;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -310,6 +310,7 @@
 				2A2EC5A91E5C2A7000036786 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
