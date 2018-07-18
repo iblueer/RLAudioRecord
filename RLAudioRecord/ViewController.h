@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (void)recording:(int)choose;
 
 @end
 
